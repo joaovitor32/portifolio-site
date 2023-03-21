@@ -1,0 +1,40 @@
+{
+  "footer": {
+    "text": "João Vitor Muniz Lopes"
+  },
+  "header": {
+    "initials": "JVML"
+  },
+  "form": {
+    "title": "Entre em contato",
+    "button": "Enviar",
+
+    "inputs": {
+      "name": {
+        "name": "name",
+        "placeholder": "Nome",
+        "type": "text"
+      },
+      "phone": {
+        "name": "phone",
+        "placeholder": "Whatsapp",
+        "type": "text"
+      },
+      "email": {
+        "name": "email",
+        "placeholder": "E-mail",
+        "type": "text"
+      }
+    }
+  },
+  "banner": {
+    "image": "/img/main-banner.png",
+    "title": "Sobre mim",
+    "name": "João Vitor Muniz Lopes",
+    "mainText": "Engenheiro da Computação, formado pela UERJ, com 2 anos de experiência. Busco aperfeiçoamento diário na área da tecnologia e entusiasta da programação com foco em Estrutura de Dados.Trabalhei como freelancer por aproximadamente 1 ano e, depois, comecei meu vínculo profissional na Mundiale, onde iniciei como estagiário até chegar a posição de Software Developer IV. Como estagiário e Software Developer 2, o enfoque do meu trabalho era, de maneira colaborativa, criar os serviços base e realizar a manutenção dos mesmos, utilizando algumas tecnologias como, por exemplo, às seguintes: Jest, Node, Docker, MongoDB, Grafana, construção/correções pipelines(CI/CD) no no GitLab e mensageria com RabbitMQ.",
+    "button": "Entrar em contato"
+  },
+  "repositories": {
+    "title": "Meus projetos"
+  }
+}
