@@ -14,10 +14,10 @@ const nextConfig = {
     NEXT_PUBLIC_USERNAME: process.env.NEXT_PUBLIC_USERNAME,
   },
   publicRuntimeConfig: {
-    AWS_ACCESS_KEY: 'AKIAVWL35TR52B555S5H',
-    AWS_SECRET_KEY: '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',
-    AWS_REGION: 'us-east-1',
-    TO_MAIL: 'joaovitormunizlopes@gmail.com',
+    AWS_ACCESS_KEY: '',
+    AWS_SECRET_KEY: '',
+    AWS_REGION: '',
+    TO_MAIL: '',
   },
   reactStrictMode: false,
 
