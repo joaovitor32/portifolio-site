@@ -7,4 +7,4 @@ npm i
 
 ## Demo
 
-![portifolio-site](video/sample.mp4)
+![portifolio-site](video/sample.gif)
