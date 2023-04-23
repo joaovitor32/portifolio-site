@@ -3,6 +3,7 @@
 ### How to install 
 ```
 npm i
+npm run dev
 ```
 
 ## Demo
